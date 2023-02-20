@@ -1,6 +1,3 @@
-
-package a5;
-
 public class Laptop extends Computer {
 	
 	public double width;

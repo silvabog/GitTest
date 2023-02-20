@@ -1,6 +1,3 @@
-
-package a5;
-
 public class TestComputer {
 	public static void main(String[] args) {
 		Computer c1 = new Computer();
